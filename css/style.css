@@ -1,0 +1,16 @@
+body{
+    background-image:url(image/img_bg_4.jpg); background-size:cover 
+}
+#gtco-hero{
+    padding:30px
+}
+
+h1{
+    text-align:center; color:rgb(14, 6, 6)
+}
+
+p{
+    margin-bottom:10px; color:rgb(0, 0, 0)
+}
+
+    
